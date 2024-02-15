@@ -1,18 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a> 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Kirill</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">MSU student. A developing programmer!<!-- !<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> --></h3>
 
-I like
-- :lerning: learning
-- :studing: studing
-- :teaching: teaching
+[My Telegram](t.me/work_kir)
 
-### Skills and Tools
-[<img align="left" alt="C/C++" width="26px" srs="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][CC]
+[About me in full](https://www.overleaf.com/project/65cc6341c17d4e29c32b35a8)
 
-### You can contact me:
+<!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
-[<img align="left" alt="Telegram:" width="26px" srs="https://t.me/kkirilove" />][tg]
-
-
-[tg]: https://t.me/kkirilove
-[CC]: https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png
+{username} — ваш ник на ГитХабе;
+{repository} — репозиторий где хранятся картинки;
+{branch} — ветка репозитория;
+{path} — путь к месту нахождения картинки. -->
